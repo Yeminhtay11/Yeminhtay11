@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning satellite remote sensing analysis.
-- 🇯🇵 Studyin Japanese language
+- 🇯🇵 Studying the Japanese language
 - 🤗Collection of my studies
 
 -->
